@@ -1,5 +1,5 @@
 package com.yhxy.common;
-
+/** auth:Alex */
 public class Constants {
 	
 	//自定义配置文件
